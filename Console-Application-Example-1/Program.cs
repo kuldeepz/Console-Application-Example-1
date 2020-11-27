@@ -19,7 +19,7 @@ namespace Console_Application_Example_1
             {
                 slen += arr[i];
             }
-            Console.WriteLine(slen);
+            Console.WriteLine(slen); 
             //Console.ReadLine();
             //Palindrome or not
             if (s == slen)
